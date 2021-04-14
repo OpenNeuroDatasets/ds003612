@@ -1,10 +1,9 @@
 {
     "Acknowledgements": "We thank Terry Sacket and the rest of the DBIC (Dartmouth Brain Imaging Center) personnel for assistance in data collection, and Yaroslav Halchenko and Matteo Visconti for preparing BIDS dataset. TODO: more",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "Monica Crotti",
+        "Karl Koschutnig",
+        "Selina Christin Wriessnegger"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "10.18112/openneuro.ds003612.v1.0.0",
