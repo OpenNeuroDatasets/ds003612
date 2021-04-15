@@ -5,5 +5,5 @@ To  the best of our knowledge there is no study directly investigating the diffe
 DATASET DESCRIPTION:
 In the present dataset you can find:
 - participants.tsv: document with the information reagarding sex, age, handedness, and questionnaires results of all the 51 subjects included.
-- task-execution_acq-Fs2_bold.json
-- 
+- task-execution_acq-Fs2_bold.json: Information regarding the execution task
+- task-imagery_acq-Fs2_bold.json: Information regarding the imagery task
