@@ -1,1 +1,8 @@
-TODO: Provide description for the dataset -- basic details about the study, possibly pointing to pre-registration (if public or embargoed)
+STUDY DESCRIPTION:
+To  the best of our knowledge there is no study directly investigating the difference between right and left handers MI neural correlates per se and especially in the cerebellum. To achieve a deeper understanding of handedness effects on motor imagery in both right and left-handed individuals, the present study used functional magnetic resonance imaging (fMRI) to compare neural correlates associated with the execution and imagination of a simple task (i.e., squeezing a ball) with the dominant, non-dominant and both hands. 
+
+
+DATASET DESCRIPTION:
+In the present dataset you can find:
+- participants.tsv: document with the information reagarding sex, age, handedness, and questionnaires results of all the 51 subjects included.
+- 
