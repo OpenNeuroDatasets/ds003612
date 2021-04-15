@@ -7,3 +7,4 @@ In the present dataset you can find:
 - participants.tsv: document with the information reagarding sex, age, handedness, and questionnaires results of all the 51 subjects included.
 - task-execution_acq-Fs2_bold.json: Information regarding the execution task
 - task-imagery_acq-Fs2_bold.json: Information regarding the imagery task
+- sub-108TUSW01100n: folder for each participant, where n is the number associated to the participant  (from 1 to 51), including ses 1 folder with the anatomical (anat folder); functional map (fmap folder) and functional data (func folder) for each subject.
