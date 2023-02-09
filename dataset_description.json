@@ -1,10 +1,9 @@
 {
     "Acknowledgements": "",
     "Authors": [
-        "TODO:",
-        "First1 Last1",
-        "First2 Last2",
-        "..."
+        "Monica Crotti",
+        "Karl Koschutnig",
+        "Selina Wriessnegger"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "doi:10.18112/openneuro.ds003612.v1.0.2",
